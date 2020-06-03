@@ -1,4 +1,4 @@
-package test;
+package test.java.src;
 
 import com.algorithms.sorting.MergeSort;
 import org.junit.jupiter.api.Test;

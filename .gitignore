@@ -3,3 +3,9 @@
 /out/production/Sorting/com/algorithms/sorting/QuickSort.class
 /out/production/Sorting/test/QuickSortUnitTest.class
 /out/production/Sorting/META-INF/Sorting.kotlin_module
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
