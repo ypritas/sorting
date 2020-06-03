@@ -1,6 +1,6 @@
 package test;
 
-import com.company.QuickSort;
+import com.algorithms.sorting.QuickSort;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

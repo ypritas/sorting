@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.Arrays;
+package com.algorithms.sorting;
 
 public class MergeSort {
     public static void mergeSort(int[] array, int length) {

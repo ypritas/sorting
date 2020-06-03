@@ -1,6 +1,6 @@
 package test;
 
-import com.company.MergeSort;
+import com.algorithms.sorting.MergeSort;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
